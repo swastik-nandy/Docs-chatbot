@@ -476,22 +476,21 @@ cloud-chatbot/
 
 | Area                 | Status                   |
 | -------------------- | ------------------------ |
-| Markdown parsing     | In progress              |
-| MDX normalization    | In progress              |
-| AST parsing          | In progress              |
-| Enrichment layer     | In progress              |
-| IR block system      | In progress              |
-| Relationship linking | In progress              |
-| Chunking engine      | In progress              |
-| Chunk validation     | In progress              |
+| Markdown parsing     | Being Optimized          |
+| MDX normalization    | Being Optimized          |
+| AST parsing          | Integrated               |
+| Enrichment layer     | Integrated               |
+| IR block system      | Being Optimized          |
+| Relationship linking | Integrated               |
+| Chunking engine      | Integrated               |
+| Chunk validation     | Integrated               |
 | Embedding pipeline   | In progress              |
 | Qdrant storage       | Integrated               |
 | BM25 retrieval       | Integrated               |
 | Hybrid retrieval     | Integrated               |
 | Reranking            | Experimental             |
 | LLM generation       | Integrated               |
-| Conversation memory  | Basic implementation     |
-| Production readiness | Not production-ready yet |
+| Conversation memory  | Basic implementation     | |
 
 ---
 
